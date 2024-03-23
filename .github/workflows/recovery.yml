@@ -65,4 +65,4 @@ jobs:
           tag_name: TWRP_10.0
           name: TWRP-TECNO-KE5
           files: | 
-            work/out/target/product/TECNO-KE5/recovery.img
+            work/out/target/product/KE5/recovery.img
